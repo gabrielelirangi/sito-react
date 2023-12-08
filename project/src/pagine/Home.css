@@ -1,0 +1,45 @@
+/* stile pagina home */
+/* body{
+    
+} */
+.box-img {
+  height: 100vh;
+  
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  padding: 20vh 10vh;
+  
+}
+
+
+/* ------------------------------------------------------------ */
+/* stile bottoni */
+.bottone{
+    height: max-content;
+    width: max-content;
+    background-color: rgba(65, 65, 223, 0.643);
+    padding: 20px;
+    border-radius: 50px;
+    
+}
+.bottone:hover{
+    transform: scale(1.1);
+}
+.bottone a{
+    color: gold;
+    font-size: 20px;
+    text-decoration: none;
+    
+    
+}
+
+/* ------------------------------------------------ */
+
+
+
+
+
+
+
+

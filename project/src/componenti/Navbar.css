@@ -1,0 +1,49 @@
+/* stile per la navbar */
+
+/* stile del box che contiene tutta la navbar */
+nav{
+    height: 20vh;
+    background-size: cover;
+    
+    
+}
+
+/* box che contiene gli elementi della navbar */
+.wrapper{
+    /* background-color: white; */
+    height: 20vh;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    padding: 0px 30px;
+}
+
+/* inserisco il logo della pagina contenuta nella navbar */
+.logo{
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+/* modifico i link*/
+.box-menu{
+    display:flex ;
+    gap: 20px;
+}
+/* stile pulsanti */
+.box-menu .menu{
+    text-decoration: none;
+    color: gold;
+}
+
+.menu:hover{
+    color: bisque;
+    transform: scale(1.1);
+}
+
+
+

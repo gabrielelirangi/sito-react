@@ -1,0 +1,14 @@
+/* css corpo pagina  */
+
+/* css reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pagina {
+  height: 100vh;
+  background-color: grey;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
