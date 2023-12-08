@@ -1,0 +1,67 @@
+/* stile footer */
+
+.box-footer{
+    background-color: black;
+    max-width: 1300px;
+    margin: 0 auto;
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* social*/
+.social  h2{
+    margin-bottom: 20px;
+    color: red;
+}
+.social{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+/* pagine*/
+.pagine{
+    color: white;
+}
+.pagine ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+    color: white;
+}
+
+
+.link-footer{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.pagine li:hover{
+    transform: scale(1.1);
+}
+
+.pagine  h2{
+    margin-bottom: 20px;
+    color: red;
+}
+
+/* privacy*/
+
+.link ul{
+    color: white;
+    list-style: none;
+}
+
+.privacy{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
