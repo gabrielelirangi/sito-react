@@ -1,11 +1,14 @@
 /* stile footer */
 
-.box-footer{
+.box{
     background-color: black;
-    max-width: 1300px;
-    margin: 0 auto;
+    height: 40vh;
+}
+.box-footer{
+    
     height: 30vh;
     display: flex;
+    margin: 0px 100px;
     justify-content: space-between;
     align-items: center;
 }
@@ -64,4 +67,8 @@
     
 }
 
-
+.autore{
+    color: white;
+    margin: 20px;
+   
+}

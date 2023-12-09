@@ -1,8 +1,12 @@
-# React + Vite
+prima creazione di un sito con l'uso basilare di react , con semplici comandi di stile e creazione dell'html a mano.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Questo sito contiene 3 pagine inerenti al gioco di Yu gi oh.
 
-Currently, two official plugins are available:
+il sito prevede una navbar contenete un logo e un menu
+il main che si divide in breve storia del gioco, una pagina inerenti ai deck (al momento contiene solo il deck shaddoll),
+e una pagina contenete una strategia generale da usare nel gioco.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+il sito necessita di molti ritocchi ad esempio l'ottimizzazione del codice e soprattutto l'inserimento della logica javascript non ancora studiata in react e soprattutto uno stile responsive!
+
+

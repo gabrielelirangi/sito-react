@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-// pagina inziale ---->home
-
+// pagina inziale ---->home 
 import imgBox from "./immagini/sfondo-home.jpg";
 import img1 from "./immagini/img-sez1.jpg";
 import img2 from "./immagini/Collezione.jpg";
@@ -17,10 +16,10 @@ export default function Home() {
         style={{ backgroundImage: `url(${imgBox})` }}
       >
         <div className="bottone">
-          <a href="#bottone1">YU-GHI-OH</a>
+          <a href="#bottone1" >YU-GI-OH</a>
         </div>
         <div className="bottone">
-          <a href="">SHADDOLL DECK</a>
+          <a href=" /Deck" >SHADDOLL DECK</a>
         </div>
       </section>
 

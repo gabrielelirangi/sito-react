@@ -1,0 +1,24 @@
+.box{
+    background-color: black;
+    height: max-content;
+}
+
+.box-regole{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.box-regole h3{
+    color: gold;
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+.box-regole p{
+    font-size: 25px;
+    color: wheat;
+    
+    text-align: center;
+    padding: 20px;
+
+}
